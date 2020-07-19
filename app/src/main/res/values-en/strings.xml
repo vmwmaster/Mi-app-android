@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi App</string>
+    <string name="titulo_app">Welcome</string>
+    <string name="btn_entrar">Enter</string>
+</resources>
